@@ -48,6 +48,7 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 - **Search Functionality**: Easily search for existing issues to view or update them.
 
 <sub>
+  
 *Linear and Linear Icon are retrieved from Linear Brand assets and are trademarks of Linear Orbit. By using this plugin you must agree to Linear [Privacy Policy](https://linear.app/privacy)
 
 ** Powertoys is a product by Microsoft
