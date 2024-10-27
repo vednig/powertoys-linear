@@ -1,0 +1,14 @@
+{
+  "ID": "BDE772C3783543458BB433665DD09C01",
+  "ActionKeyword": "linear",
+  "IsGlobal": false,
+  "Name": "MyPlugin1",
+  "Author": "vednig",
+  "Version": "0.82.2",
+  "Language": "csharp",
+  "Website": "https://github.com/test/MyPlugin1",
+  "ExecuteFileName": "MyPlugin1.dll",
+  "IcoPathDark": "Images\\myplugin1.dark.png",
+  "IcoPathLight": "Images\\myplugin1.light.png",
+  "DynamicLoading": false
+}
