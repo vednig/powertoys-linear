@@ -21,7 +21,7 @@ The Powertoys Linear Plugin is a tool designed to enhance your productivity by a
   
 ## Installation
 1. Ensure you have [Microsoft Powertoys](https://github.com/microsoft/PowerToys/releases) installed on your machine.
-2. Download the latest release of the Powertoys Linear Plugin from the [releases page](link-to-releases).
+2. Download the latest release of the Powertoys Linear Plugin from the [releases page](https://github.com/vednig/powertoys-linear/releases).
 <details><summary> 3. Extract the contents and copy the plugin to the Powertoys plugins directory. </summary> 
 
   ``` 
