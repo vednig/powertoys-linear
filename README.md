@@ -42,7 +42,7 @@ We welcome contributions! If you have suggestions or improvements, please fork t
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Support
-If you encounter any issues or have questions, please open an issue in the repository or contact us at [your-email@example.com].
+If you encounter any issues or have questions, please [open an issue](https://github.com/vednig/powertoys-linear/issues) in the repository or a [discussion](https://github.com/vednig/powertoys-linear/discussions).
 
 ## ToDo
 - **Search Functionality**: Easily search for existing issues to view or update them.
