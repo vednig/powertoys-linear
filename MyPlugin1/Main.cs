@@ -74,7 +74,11 @@ namespace MyPlugin1
                     ToolTipData = new ToolTipData("Create a New Issue", "To Do"),
                     Action = _ =>
                     {
-                        Clipboard.SetDataObject(search);
+                        Process.Start(new ProcessStartInfo
+                        {
+                            FileName = "linear://new?title=" + search.Split(':')[0] + "&description=" + ((search.IndexOf(":") != -1) ? search.Split(":")[1] : "") + "&status=" + ((isToDo == true) ? "ToDo" : "None"),
+                            UseShellExecute = true // This is important for protocols
+                        });
                         return true;
                     },
                     ContextData = search,
